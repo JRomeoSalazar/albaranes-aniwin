@@ -1,0 +1,9 @@
+[project]
+name = "albaranes-aniwin"
+version = "0.1.0"
+description = "Automatización de albaranes para Aniwin 4.3"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

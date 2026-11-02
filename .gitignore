@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Datos reales: nunca al repositorio
+config.ini
+*.mdb
+*.accdb
+*.ldb
+*.laccdb
+logs/
+salida/
+copias/
+entrada/
+token.json
+credentials.json
+client_secret*.json
+.env

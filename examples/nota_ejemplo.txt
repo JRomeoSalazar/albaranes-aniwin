@@ -1,0 +1,13 @@
+Albarán XXXX - Nombre cliente
+Fecha: 29/09/2026 | Hora: 09:30 | Albarán Nº: XXXX
+Cliente: Nombre cliente
+Vehículo: Rueda trasera suelta (Bicicleta eléctrica)
+
+Repuestos:
+Cubierta de ejemplo 1 unidad. Líquido tubeless de ejemplo 1 dosis.
+
+Trabajos realizados:
+Cambio de cubierta y tubelizado de rueda trasera de bicicleta eléctrica con dosis de líquido tubeless. Revisión de presión y comprobación de estanqueidad.
+
+Recomendaciones:
+Revisar la presión cada dos semanas y reponer el líquido a los seis meses.

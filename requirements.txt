@@ -1,0 +1,9 @@
+# Fase 1 solo usa la biblioteca estándar. Dependencias de desarrollo:
+pytest>=8.0
+
+# Fase 2 (lectura de Access, solo Windows, Python 64 bits):
+# pyodbc>=5.0
+
+# Si el origen acaba siendo Google Tasks / Gmail / Sheets (API oficial):
+# google-api-python-client>=2.0
+# google-auth-oauthlib>=1.0
