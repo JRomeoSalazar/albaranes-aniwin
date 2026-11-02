@@ -5,6 +5,7 @@
 ![Plataforma](https://img.shields.io/badge/plataforma-Windows%2064%20bits-0078D6?logo=windows&logoColor=white)
 ![Aniwin](https://img.shields.io/badge/Aniwin-4.3-orange)
 ![Estado](https://img.shields.io/badge/estado-v0.1%20en%20desarrollo-yellow)
+[![Licencia: MIT](https://img.shields.io/badge/licencia-MIT-green.svg)](LICENSE)
 ![Último commit](https://img.shields.io/github/last-commit/JRomeoSalazar/albaranes-aniwin)
 ![Idioma](https://img.shields.io/badge/docs-espa%C3%B1ol-lightgrey)
 
