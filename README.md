@@ -1,5 +1,13 @@
 # Automatización de albaranes (Aniwin)
 
+[![Tests](https://github.com/JRomeoSalazar/albaranes-aniwin/actions/workflows/tests.yml/badge.svg)](https://github.com/JRomeoSalazar/albaranes-aniwin/actions/workflows/tests.yml)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python&logoColor=white)
+![Plataforma](https://img.shields.io/badge/plataforma-Windows%2064%20bits-0078D6?logo=windows&logoColor=white)
+![Aniwin](https://img.shields.io/badge/Aniwin-4.3-orange)
+![Estado](https://img.shields.io/badge/estado-v0.1%20en%20desarrollo-yellow)
+![Último commit](https://img.shields.io/github/last-commit/JRomeoSalazar/albaranes-aniwin)
+![Idioma](https://img.shields.io/badge/docs-espa%C3%B1ol-lightgrey)
+
 Herramienta para que el usuario B deje de teclear a mano en **Aniwin 4.3** lo que el usuario A ya ha dictado a Gemini.
 
 > **Estado:** v0.1, definición y esqueleto. El origen de las notas (Keep, Tasks u otro) y el formato de importación de Aniwin **no están cerrados**. Ver [`docs/02-aspectos-abiertos.md`](docs/02-aspectos-abiertos.md).
